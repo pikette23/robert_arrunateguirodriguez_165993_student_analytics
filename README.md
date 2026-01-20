@@ -4,8 +4,8 @@ Todo el proyecto se ejecutará en una única aplicación.
 
 ## Cómo arrancar la aplicación
 
-1. Clonar el repositorio: git clone ...
-2. Entrar en el proyecto cd 
+1. Clonar el repositorio: git clone https://github.com/pikette23/robert_arrunateguirodriguez_165993_student_analytics.git
+2. Entrar en el proyecto: cd robert_arrunateguirodriguez_165993_student_analytics 
 3. Ejecutar la aplicación: mvn spring-boot:run
 
 La aplicación se inicia en: **http://localhost:8080**
